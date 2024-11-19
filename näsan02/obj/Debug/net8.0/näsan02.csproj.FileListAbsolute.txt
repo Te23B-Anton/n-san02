@@ -1,0 +1,14 @@
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.AssemblyInfoInputs.cache
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.AssemblyInfo.cs
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.csproj.CoreCompileInputs.cache
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\bin\Debug\net8.0\näsan02.exe
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\bin\Debug\net8.0\näsan02.deps.json
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\bin\Debug\net8.0\näsan02.runtimeconfig.json
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\bin\Debug\net8.0\näsan02.dll
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\bin\Debug\net8.0\näsan02.pdb
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.dll
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\refint\näsan02.dll
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.pdb
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\näsan02.genruntimeconfig.cache
+C:\Users\anton.faren\Documents\Prog1\näsan02\näsan02\obj\Debug\net8.0\ref\näsan02.dll
